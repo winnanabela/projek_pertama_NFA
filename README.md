@@ -1,2 +1,2 @@
 # projek_pertama_NFA
-Ini adalah tugas projes pertama saya di NFA
+Ini adalah tugas projek pertama saya di NFA
