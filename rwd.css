@@ -1,0 +1,36 @@
+.content-section {
+    background: #f8f9fa; /* Warna latar belakang */
+    padding: 20px;
+    border-radius: 8px; /* Sudut melengkung */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Efek bayangan */
+}
+
+.content-section h4 {
+    text-align: center;
+    color: #333;
+    font-weight: bold;
+}
+
+.content-links {
+    list-style: none;
+    padding: 0;
+}
+
+.content-links li {
+    margin-bottom: 10px;
+}
+
+.content-links a {
+    display: block;
+    text-decoration: none;
+    color: #007bff; /* Warna biru seperti Bootstrap */
+    font-weight: 600;
+    padding: 10px;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.content-links a:hover {
+    background: #007bff;
+    color: white;
+}
